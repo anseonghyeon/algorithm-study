@@ -1,9 +1,6 @@
 # algorithm-study
 백준(BOJ) 문제 풀이 및 알고리즘 학습 저장소입니다.
 
-## Profile
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=anseonghyeon)](https://solved.ac/anseonghyeon)
-
 ## Tech Stack
 - **Language**: Java 17
 - **IDE**: IntelliJ IDEA Ultimate
